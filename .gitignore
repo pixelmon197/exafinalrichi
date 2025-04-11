@@ -1,0 +1,15 @@
+# Dependencias de Node.js
+node_modules/
+package-lock.json
+
+# Archivos de entorno
+.env
+db.js
+
+# Archivos de Composer (si no es necesario subirlos)
+composer.lock
+vendor/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
